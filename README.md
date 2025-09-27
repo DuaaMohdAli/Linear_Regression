@@ -1,3 +1,3 @@
-Diabetes Prediction
+LINEAR REGRESSION - MACHINE LEARNING MODEL
 
 
